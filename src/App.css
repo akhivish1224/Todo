@@ -1,0 +1,23 @@
+h1 {
+  font-weight: 700;
+  margin: 20px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  text-align: left;
+}
+
+.items-container {
+  text-align: left;
+  width: 100%;
+}
+
+.ak-row {
+  margin: 10px 3px;
+}
+
+.ak-button {
+  min-width: 90px;
+}
